@@ -1,0 +1,10 @@
+void main (){
+ var heading = "heading";
+  var name = "ali";
+  int age = 27;
+  num contact = 923130000000;
+  double salary = 2.2;
+  String address = "L-44/1, block c,";
+  print ('${heading}\n ${name}\n${age}\n${contact}\nSalary ${salary}k\n${address}');
+   
+}
